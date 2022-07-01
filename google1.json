@@ -1,0 +1,437 @@
+[
+    {
+        "title": "Modute:1",
+        "Content": [
+            {
+                "heading": "Wavesonastring",
+                "link1": "https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html"
+            },
+            {
+                "heading": "Wavesonastring",
+                "link1": "https://phet.colorado.edu/en/simulation/wave-on-a-string"
+            },
+            {
+                "heading": "Waveequationonastringderivation",
+                "link1": "https://galileo.phys.virginia.edu/classes/252/Classical_Waves/Classical_Waves.html"
+            },
+            {
+                "heading": "Waveequationonastringderivation",
+                "link1": "https://galileo.phys.virginia.edu/classes/252/Classical_Waves/Classical_Waves.html#Waves%20on%20a%20String"
+            },
+            {
+                "heading": "Harmonicwavesreflectionandtransmissionataboundary",
+                "link1": "http://www.cv.titech.ac.jp/~hiro-lab/lecture/Vibration_Wave_Analysis/text-2.pdf"
+            },
+            {
+                "heading": "Harmonicwavesreflectionandtransmissionataboundary",
+                "link1": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.581.4641&rep=rep1&type=pdf"
+            },
+            {
+                "heading": "Standingandtheireigenfrequencies",
+                "link1": "https://physics.info/waves-standing/"
+            },
+            {
+                "heading": "Standingandtheireigenfrequencies",
+                "link1": "https://www.youtube.com/watch?v=rlzqOfPbgPU"
+            },
+            {
+                "heading": "waveswithdispersion",
+                "link1": "https://en.wikipedia.org/wiki/Dispersion_(water_waves)"
+            },
+            {
+                "heading": "waveswithdispersion",
+                "link1": "https://en.wikipedia.org/wiki/Dispersion_(water_waves)#Frequency_dispersion_for_surface_gravity_waves"
+            },
+            {
+                "heading": "SuperpositionwavesandFouriermethodqualitative",
+                "link1": "https://iopscience.iop.org/book/978-1-64327-286-3/chapter/bk978-1-64327-286-3ch1"
+            },
+            {
+                "heading": "SuperpositionwavesandFouriermethodqualitative",
+                "link1": "https://practicalee.com/superposition/"
+            }
+        ]
+    },
+    {
+        "title": "Module:2",
+        "Content": [
+            {
+                "heading": "etphasevelocityandgroupvelocityModule2wavesPhysicsdivergence",
+                "link1": "https://www.etsi.org/deliver/etsi_ts/124200_124299/124239/08.02.00_60/ts_124239v080200p.pdf"
+            },
+            {
+                "heading": "gradientandcurl",
+                "link1": "http://clas.sa.ucsb.edu/staff/alex/VCFAQ/GDC/GDC.htm"
+            },
+            {
+                "heading": "gradientandcurl",
+                "link1": "https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Vector_Calculus_(Corral)/04%3A_Line_and_Surface_Integrals/4.06%3A_Gradient_Divergence_Curl_and_Laplacian"
+            },
+            {
+                "heading": "surfaceandvolumeintegral",
+                "link1": "http://phyweb.physics.nus.edu.sg/~phylimhs/LineSurfVolInt2.pdf"
+            },
+            {
+                "heading": "surfaceandvolumeintegral",
+                "link1": "https://www.tutorhelpdesk.com/homeworkhelp/Electricity-Magnetism-/Line-Surface-And-Volume-Integrals-Assignment-Help.html"
+            },
+            {
+                "heading": "MaxwellEquationsQualitative",
+                "link1": "http://www.phys.virginia.edu/classes/109N/more_stuff/Maxwell_Eq.html"
+            },
+            {
+                "heading": "MaxwellEquationsQualitative",
+                "link1": "http://www.phys.virginia.edu/classes/109N/more_stuff/Maxwell_Eq.html#The%20Equations"
+            },
+            {
+                "heading": "Continuityequationforcurrentdensities",
+                "link1": "https://en.wikipedia.org/wiki/Continuity_equation"
+            },
+            {
+                "heading": "Continuityequationforcurrentdensities",
+                "link1": "https://en.wikipedia.org/wiki/Continuity_equation#General_equation"
+            },
+            {
+                "heading": "Displacementcurrent",
+                "link1": "https://www.youtube.com/watch?v=KF_cUfDOAAo"
+            },
+            {
+                "heading": "Displacementcurrent",
+                "link1": "https://en.wikipedia.org/wiki/Displacement_current"
+            },
+            {
+                "heading": "Electromagneticwaveequationfreespace",
+                "link1": "https://www.drsusanlea.com/courses/grad/waveguid.pdf"
+            },
+            {
+                "heading": "Electromagneticwaveequationfreespace",
+                "link1": "https://www.youtube.com/watch?v=ZiJQ-3H_Z8w"
+            },
+            {
+                "heading": "Planeelectromagneticwavesinfreespace",
+                "link1": "https://www.lpl.arizona.edu/hamilton/sites/lpl.arizona.edu.hamilton/files/courses/ptys551/Chapters/Electromagnetic_Waves_in_Free_Space.pdf"
+            },
+            {
+                "heading": "Planeelectromagneticwavesinfreespace",
+                "link1": "https://opentextbc.ca/universityphysicsv2openstax/chapter/plane-electromagnetic-waves/"
+            }
+        ]
+    },
+    {
+        "title": "Module:3",
+        "Content": [
+            {
+                "heading": "ComptoneffectQualitativedeBrogliehypothesis",
+                "link1": "https://opentextbc.ca/universityphysicsv3openstax/chapter/the-compton-effect/"
+            },
+            {
+                "heading": "ComptoneffectQualitativedeBrogliehypothesis",
+                "link1": "https://www.sciencedirect.com/topics/physics-and-astronomy/compton-effect"
+            },
+            {
+                "heading": "justificationofBohrpostulate",
+                "link1": "https://www.toppr.com/ask/content/concept/de-broglies-explanation-of-bohrs-second-postulate-210525/"
+            },
+            {
+                "heading": "justificationofBohrpostulate",
+                "link1": "http://physics.bu.edu/~duffy/semester2/c37_deBroglie.html"
+            },
+            {
+                "heading": "DavissonGermerexperiment",
+                "link1": "https://byjus.com/physics/davisson-germer-experiment/"
+            },
+            {
+                "heading": "DavissonGermerexperiment",
+                "link1": "https://en.wikipedia.org/wiki/Davisson%E2%80%93Germer_experiment"
+            },
+            {
+                "heading": "Wavefunctionandprobabilityinterpretation",
+                "link1": "https://farside.ph.utexas.edu/teaching/315/Waveshtml/node90.html"
+            },
+            {
+                "heading": "Wavefunctionandprobabilityinterpretation",
+                "link1": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0124-61272013000100002"
+            }
+        ]
+    },
+    {
+        "title": "Module:4",
+        "Content": [
+            {
+                "heading": "Basicsofnanophysics",
+                "link1": "http://indico.ictp.it/event/a10137/session/2/contribution/1/material/0/0.pdf"
+            },
+            {
+                "heading": "Basicsofnanophysics",
+                "link1": "http://www.phys.nthu.edu.tw/~spin/course/102S/102-2-21_nanophysics-introduction-Kwo-English.pdf"
+            },
+            {
+                "heading": "Quantumconfinementandnanostructures",
+                "link1": "https://www.sciencedirect.com/topics/engineering/quantum-confinement-effect"
+            },
+            {
+                "heading": "Quantumconfinementandnanostructures",
+                "link1": "https://bura.brunel.ac.uk/bitstream/2438/20190/1/FullText.pdf"
+            }
+        ]
+    },
+    {
+        "title": "Module:5",
+        "Content": [
+            {
+                "heading": "spatialandtemporalcoherence",
+                "link1": "http://users.ntua.gr/eglytsis/OptEng/Coherence_p.pdf"
+            },
+            {
+                "heading": "spatialandtemporalcoherence",
+                "link1": "https://www.differencebetween.com/what-is-the-difference-between-temporal-and-spatial-coherence/"
+            },
+            {
+                "heading": "Einsteincoefficientsandtheirsignificance",
+                "link1": "https://en.wikipedia.org/wiki/Einstein_coefficients"
+            },
+            {
+                "heading": "Einsteincoefficientsandtheirsignificance",
+                "link1": "https://en.wikipedia.org/wiki/Einstein_coefficients#Emission_and_absorption_coefficients"
+            },
+            {
+                "heading": "Populationinversion",
+                "link1": "https://www.britannica.com/technology/population-inversion"
+            },
+            {
+                "heading": "Populationinversion",
+                "link1": "https://en.wikipedia.org/wiki/Population_inversion"
+            },
+            {
+                "heading": "twothreeandfourlevelsystems",
+                "link1": "https://www.rp-photonics.com/four_level_and_three_level_laser_gain_media.html"
+            },
+            {
+                "heading": "twothreeandfourlevelsystems",
+                "link1": "https://www.physics-and-radio-electronics.com/physics/laser/laser-populationinversion.html"
+            },
+            {
+                "heading": "Pumpingschemes",
+                "link1": "https://bklein.ece.gatech.edu/laser-photonics/pumping-schemes/"
+            },
+            {
+                "heading": "Pumpingschemes",
+                "link1": "https://www.slideshare.net/PraveenVaidya1/laser-42133146"
+            },
+            {
+                "heading": "thresholdgaincoefficient",
+                "link1": "https://www.sciencedirect.com/topics/engineering/gain-coefficient"
+            },
+            {
+                "heading": "thresholdgaincoefficient",
+                "link1": "https://www.sciencedirect.com/topics/computer-science/gain-coefficient"
+            },
+            {
+                "heading": "Componentsofalaser",
+                "link1": "https://www.newport.com/n/critical-laser-components"
+            },
+            {
+                "heading": "Componentsofalaser",
+                "link1": "https://www.electrical4u.com/laser-types-and-components-of-laser/"
+            }
+        ]
+    },
+    {
+        "title": "Modute:6",
+        "Content": [
+            {
+                "heading": "lightpropagationthroughfibers",
+                "link1": "https://www.brainkart.com/article/Principle-of-light-propagation-through-a-fibre_11971/"
+            },
+            {
+                "heading": "lightpropagationthroughfibers",
+                "link1": "https://www.tutorialspoint.com/Transmission-of-Light-Through-Fiber"
+            },
+            {
+                "heading": "Acceptanceangle",
+                "link1": "https://www.rp-photonics.com/acceptance_angle_in_fiber_optics.html"
+            },
+            {
+                "heading": "Acceptanceangle",
+                "link1": "https://www.researchgate.net/figure/Acceptance-angle-of-a-typical-step-index-fiber-with-a-fiber-core-of-refractive-index-n-1_fig1_228083167"
+            },
+            {
+                "heading": "Numericalaperture",
+                "link1": "https://en.wikipedia.org/wiki/Numerical_aperture"
+            },
+            {
+                "heading": "Numericalaperture",
+                "link1": "https://en.wikipedia.org/wiki/Numerical_aperture#General_optics"
+            },
+            {
+                "heading": "Vparameter",
+                "link1": "https://docs.oracle.com/cd/E11882_01/server.112/e40402/dynviews_2087.htm"
+            },
+            {
+                "heading": "Vparameter",
+                "link1": "https://techgoeasy.com/difference-vsystem_parameter-vparameter/"
+            },
+            {
+                "heading": "TypesoffibersAttenuation",
+                "link1": "https://www.thefoa.org/tech/ref/testing/test/loss.html"
+            },
+            {
+                "heading": "TypesoffibersAttenuation",
+                "link1": "https://www.fiberoptics4sale.com/blogs/archive-posts/95048006-optical-fiber-loss-and-attenuation"
+            }
+        ]
+    },
+    {
+        "title": "Module:7",
+        "Content": [
+            {
+                "heading": "yModule7Introductiontosemiconductors",
+                "link1": "https://doc.comsol.com/5.6/doc/com.comsol.help.semicond/IntroductionToSemiconductorModule.pdf"
+            },
+            {
+                "heading": "yModule7Introductiontosemiconductors",
+                "link1": "https://doc.comsol.com/5.3/doc/com.comsol.help.semicond/IntroductionToSemiconductorModule.pdf"
+            }
+        ]
+    }
+][
+    {
+        "title": "Module:1",
+        "Content": [
+            {
+                "heading": "NatureProcess",
+                "link1": "https://explorenaturalcommunities.org/ecology-basics/natural-processes"
+            },
+            {
+                "heading": "NatureProcess",
+                "link1": "https://explorenaturalcommunities.org/ecology-basics/natural-processes#About"
+            }
+        ]
+    },
+    {
+        "title": "Module:2",
+        "Content": [
+            {
+                "heading": "esofEffectiveCommunicationsModule2SentencePattern",
+                "link1": "https://www.unodc.org/pdf/youthnet/tools_message_escap_mod%2002.pdf"
+            },
+            {
+                "heading": "esofEffectiveCommunicationsModule2SentencePattern",
+                "link1": "https://ecampusontario.pressbooks.pub/centennialbusn732/chapter/module-2-3-sentence-structure-for-business-communication/"
+            },
+            {
+                "heading": "ModalVerbs",
+                "link1": "https://ar.pinterest.com/pin/662029213947954866/"
+            },
+            {
+                "heading": "ModalVerbs",
+                "link1": "https://en.wikipedia.org/wiki/Modal_verb"
+            },
+            {
+                "heading": "ConcordSVA",
+                "link1": "https://en.wikipedia.org/wiki/Concord,_Campbell_County,_Virginia"
+            },
+            {
+                "heading": "ConcordSVA",
+                "link1": "https://en.wikipedia.org/wiki/Concord,_Virginia"
+            },
+            {
+                "heading": "Conditionals",
+                "link1": "https://www.perfect-english-grammar.com/conditionals.html"
+            },
+            {
+                "heading": "Conditionals",
+                "link1": "https://www.perfect-english-grammar.com/second-conditional.html"
+            }
+        ]
+    },
+    {
+        "title": "Module:3",
+        "Content": [
+            {
+                "heading": "ectionModule3JobApplicationLetters",
+                "link1": "https://www.coursehero.com/file/103190343/ELTU3011-20-21-Module-3-Job-Application-Letter-Writing-Students-Version-Finalpdf/"
+            },
+            {
+                "heading": "ectionModule3JobApplicationLetters",
+                "link1": "https://www.coursehero.com/file/36617082/Module-3-Job-Application-Letter-Writing-Teacher-Version-1docx/"
+            },
+            {
+                "heading": "Resume",
+                "link1": "https://www.resume.com/"
+            },
+            {
+                "heading": "Resume",
+                "link1": "https://novoresume.com/resume-templates"
+            }
+        ]
+    },
+    {
+        "title": "Module:4",
+        "Content": [
+            {
+                "heading": "MinutesofMeeting",
+                "link1": "https://fellow.app/meeting-templates/meeting-minutes-template/"
+            },
+            {
+                "heading": "MinutesofMeeting",
+                "link1": "https://en.wikipedia.org/wiki/Minutes"
+            }
+        ]
+    },
+    {
+        "title": "Module:5",
+        "Content": [
+            {
+                "heading": "ExecutiveSummary",
+                "link1": "https://asana.com/resources/executive-summary-examples"
+            },
+            {
+                "heading": "ExecutiveSummary",
+                "link1": "https://en.wikipedia.org/wiki/Executive_summary"
+            }
+        ]
+    },
+    {
+        "title": "Module:6",
+        "Content": [
+            {
+                "heading": "TeamLeadershipModel",
+                "link1": "http://www.nwlink.com/~donclark/leader/team_leadership.html"
+            },
+            {
+                "heading": "TeamLeadershipModel",
+                "link1": "http://www.defining-leadership.com/team-leadership-model/"
+            },
+            {
+                "heading": "NegotiationSkills",
+                "link1": "https://in.indeed.com/career-advice/career-development/negotiation-skills"
+            },
+            {
+                "heading": "NegotiationSkills",
+                "link1": "https://online.hbs.edu/blog/post/negotiation-skills"
+            }
+        ]
+    },
+    {
+        "title": "Module:7_",
+        "Content": [
+            {
+                "heading": "ApproachestoReviewPaperWriting",
+                "link1": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715443/"
+            },
+            {
+                "heading": "ApproachestoReviewPaperWriting",
+                "link1": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715443/#s5title"
+            },
+            {
+                "heading": "Structureofaresearcharticle",
+                "link1": "https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html"
+            },
+            {
+                "heading": "Structureofaresearcharticle",
+                "link1": "https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/formatting-research-papers.html"
+            }
+        ]
+    }
+]
