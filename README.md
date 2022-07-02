@@ -6,7 +6,8 @@ Before every exam, millions of students surf through google, trying to find rele
 What if there was some kind of solution to help these troubled students? A place where they could get all the links compiled in one place, separated according to their topics?
 
 <br>
-### Solution: 
+
+## Solution: 
 1. Upload image file in jpg or png format.<br>
 
 2. Text extraction is done through Tesseract OCR software, and the output is stored as a string.<br>
@@ -21,7 +22,8 @@ What if there was some kind of solution to help these troubled students? A place
 
 7. The output is displayed on the website.
 <br>
-### Techstack:
+
+## Techstack:
 
 ●	Firebase - Database<br>
 ●	Node - Backend<br>
