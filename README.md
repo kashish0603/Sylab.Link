@@ -83,40 +83,6 @@ Firstly, you have to install the express framework globally to create web applic
 
 Install the following dependencies
 <br>
- ```sh
-npm install -g express
-```
-
-<br>
-
- ```sh
-npm install express save
-```
-
-<br>
-
- ```sh
-npm install express save
-```
-
-<br>
-
- ```sh
-npm install body-parser --save
-```
-
-<br>
-
- ```sh
-npm install cookie-parser --save
-```
-
-<br>
-
- ```sh
-npm install multer save
-```
-<br>
 
 ## Python libraries:
  
