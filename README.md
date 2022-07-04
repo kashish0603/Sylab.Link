@@ -45,44 +45,6 @@ What if there was some kind of solution to help these troubled students? A place
 <br>
 
 # Installing Dependencies:
-## Node:
-In a web browser, navigate to https://nodejs.org/en/download/. Click the Windows Installer button to download the latest default version. At the time this article was written, version 10.16.0-x64 was the latest version. The Node.js installer includes the NPM package manager. <br>
-
-###### Launch the installer and finish the set up
-### Verifying Installations
-```sh
-node -v
-```
-## React:
-To create a new app, you may choose one of the following methods:
-
-### npx
-
-```sh
-npx create-react-app my-app
-```
-
-
-### npm
-
-```sh
-npm init react-app my-app
-```
-
-_`npm init <initializer>` is available in npm 6+_
-
-### Yarn
-
-```sh
-yarn create react-app my-app
-```
-<br>
-
-## Express:
-Firstly, you have to install the express framework globally to create web application using Node terminal. Use the following command to install express framework globally.
-
-Install the following dependencies
-<br>
 
 ## Python libraries:
  
